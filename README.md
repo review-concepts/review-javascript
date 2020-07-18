@@ -1,3 +1,0 @@
-##Javascript Review
-
-### Function Programing
